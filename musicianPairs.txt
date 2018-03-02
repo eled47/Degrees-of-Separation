@@ -1,0 +1,24 @@
+Kendrick Lamar,Rihanna
+Kendrick Lamar,Steve Lacy
+Kendrick Lamar,Drake
+Tyler The Creator,The Internet
+Tyler The Creator,Kanye West
+Tyler The Creator,Pharrell
+Drake,Rihanna
+Drake,Future
+The Internet,KAYTRANADA
+The Internet,Steve Lacy
+Kanye West,Lil Wayne
+Kanye West,Jay Z
+Lil Wayne,Tyler The Creator
+Lil Wayne,Drake
+Lil Wayne,Future
+Rihanna,Future
+Rihanna,Jay Z
+Steve Lacy,Tyler The Creator
+Pharrell,Rihanna
+Pharrell,Kanye West
+KAYTRANADA,Tyler The Creator
+KAYTRANADA,Steve Lacy
+Jay Z,Tyler The Creator
+Jay Z,Pharrell
