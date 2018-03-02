@@ -107,12 +107,7 @@ public class DegreesSeparation {
         String mus1 = in.nextLine();
         String mus2 = in.nextLine();
         int d = dees.getDistance(mus1,mus2);
-        //Have to fix bug it's saying Infinity degrees of separation
-        //Have to make a method that retrieves the distance b/c it's not
-        //actually affecting the vertex object in the hashmap only the
-        //vertex objects in the adjacency lists, so vertex Rihanna in the
-        //adjacency list is different than vertex Rihanna in the Hashmap
-        //Still gotta fix bugs
+        
         System.out.println("There are "+d+" degrees of separation between these" +
                 " artists");
     }
